@@ -1,0 +1,16 @@
+{
+  "name": "my-contacts",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.14.0",
+    "jade": "*"
+  },
+  "devDependencies": {
+    "grunt": "0.4.5",
+    "grunt-contrib-jst": "0.6.0"
+  }
+}
