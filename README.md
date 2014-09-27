@@ -2,12 +2,12 @@
 Contact Manager SPA built with [Backbone.js]
 
 Eventual goal is to make UI similar to Google Contacts UI
-with selected set of features.
+with very selected set of features.
 
 We will progressively enhance it/add features under several versions
 (v1, v2, v3, etc..) as a learning tool for building apps with Backbone.
 
-## Installation
+## Installation for v1
 
 ### Get project files
 Download ZIP file or clone this repository.
@@ -39,6 +39,12 @@ Templates will be in file public/js/templates.js
 To launch app, point your browser to: ../v1/public/index.html
 
 Ex: file:///home/raynaldmo/my-contacts/v1/public/index.html
+
+## Installation for v2
+### TODO
+
+## Installation for v3
+### TODO
 
 [Backbone.js]:http://backbonejs.org/
 [node]:http://nodejs.org

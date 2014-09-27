@@ -9,16 +9,16 @@ require([ 'backbone','app/routers/AppRouter', 'app/collections/Contacts' ],
 
     // manually add a couple of contacts (for testing)
 
-     // this.contacts.add([
-     // {firstName : "Mickey", lastName : "Mouse",
-     // email: "mickey@disney.com", phone : "714-555-1212"
-     // },
-     // {firstName : "Minnie", lastName : "Mouse",
-     // email: "minnie@disney.com", phone : "714-555-1213"
-     // }
-     // ]);
+     contacts.add([
+        {firstName : "Mickey", lastName : "Mouse",
+          email: "mickey@disney.com", phone : "714-555-1212"
+        },
+        {firstName : "Minnie", lastName : "Mouse",
+          email: "minnie@disney.com", phone : "714-555-1213"
+        }
+      ]);
 
-    contacts.fetch();
+    // contacts.fetch();
 
     // instantiate and start router
     var appRouter = new AppRouter({

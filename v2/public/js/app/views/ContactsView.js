@@ -22,7 +22,7 @@ define ([
       this.$content = $('#contacts');
       this.router = options.router;
 
-      this.listenTo(this.collection, 'add', this.addContact);
+      // this.listenTo(this.collection, 'add', this.addContact);
 
       this.render();
     },

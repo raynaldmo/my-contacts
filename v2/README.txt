@@ -1,6 +1,4 @@
 This version has:
-
+- Use bower to install client components
 - RequireJS modules
-- Unit Tests
-- Bootstrap
-- Separate view for contacts
+- Jasmine Unit Tests
