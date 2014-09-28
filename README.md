@@ -83,7 +83,13 @@ We use [bower] to install all  client side libraries (backbone.js, require.js et
 To launch app, point your browser to localhost:5000
 
 ## Instructions for v3
-TODO
+#### Added Features over v2
+* Use Bootstrap 3.x ( and parts of HTML5 Boilerplate (H5BP) )
+* Re-organize backbone views
+* Add more unit tests (Jasmine)
+
+
+#### To install/run v3 follow v2 installation instructions
 
 [Backbone.js]:http://backbonejs.org/
 [node]:http://nodejs.org
