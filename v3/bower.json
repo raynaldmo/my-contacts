@@ -1,0 +1,22 @@
+{
+  "name": "my-contacts",
+  "version": "0.0.0",
+  "homepage": "https://github.com/raynaldmo/my-contacts",
+  "authors": [
+    "Raynald Mompoint <raynaldmo@gmail.com>"
+  ],
+  "description": "Contact Manager",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "backbone": "1.0.0",
+    "jquery": "2.1.1",
+    "requirejs": "2.1.14",
+    "jasmine": "1.3.1",
+    "sinon": "1.10.3",
+    "backbone.localStorage": "1.1.13",
+    "requirejs-text": "2.0.12"
+  }
+}

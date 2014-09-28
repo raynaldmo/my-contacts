@@ -1,0 +1,25 @@
+#contacts-view-control {
+  margin-top: 2em;
+
+}
+
+#contacts-view-control div.dropdown {
+  display: inline-block;
+  margin-left: 0;
+}
+
+#table-contacts {
+  margin-top: 0.5em;
+}
+
+#table-contacts tbody tr:hover {
+  cursor : pointer;
+}
+
+#btn-delete-contact {
+  margin-top: 2em;
+}
+
+#form-contact {
+  margin-top: 1em;
+}
